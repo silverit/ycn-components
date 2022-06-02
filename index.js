@@ -1,6 +1,11 @@
 import React from "react";
 
 const View = () => {
-  return <div>Hello Components</div>;
+  return (
+    <div>
+      <span>Hello Components!</span>
+    </div>
+  );
 };
+
 export default View;
